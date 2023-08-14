@@ -1,0 +1,32 @@
+
+body, h1, h2, h3,p {
+    margin: 0;
+    padding: 0;
+}
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: hsl(216, 24%, 96%);
+}
+
+header img {
+    max-width: 150px;
+    border-radius: 100%;
+}
+
+header h1 {
+    margin-top: 10px;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #fcf7f7;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
